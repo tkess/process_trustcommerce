@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "processtrustcommerce143907f9": {}
+      },
+      "function": {
+        "S3Triggerbffc7e61": {
+          "deploymentBucketName": "amplify-amplify6f1a3de21f144-staging-171616-deployment",
+          "s3Key": "amplify-builds/S3Triggerbffc7e61-47594d7058535a724271-build.zip"
+        }
       }
     }
   }
